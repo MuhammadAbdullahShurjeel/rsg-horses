@@ -1,5 +1,3 @@
-# rsg-horses
-
 # RSG-HORSES EDITED BY [Stx Scripts](https://discord.gg/fPjSxEHFMt)
 
 
