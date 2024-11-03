@@ -1,6 +1,6 @@
 local spawnedHorses = {}
 
-local function SpawnHorses(horsemodel, horsecoords, heading, deleteHorseForChange, oldhorsemodel)
+function SpawnHorses(horsemodel, horsecoords, heading, deleteHorseForChange, oldhorsemodel)
 
     if deleteHorseForChange then
         DeleteEntity(oldhorsemodel)
@@ -31,7 +31,7 @@ end
 -- Horse Handler
 -- horsecoords , horsemodel , horseprice , horsename, oldkey, oldmodel
 
-local function OpenHorseMenu(data)
+function OpenHorseMenu(data)
     local menus = {}
     --print(data.horsesmenu)
     if not data.horsesmenu then
@@ -88,7 +88,7 @@ local function OpenHorseMenu(data)
 
 end
 
-local function HorsesHandler(data)
+function HorsesHandler(data)
     local coords = data.horsecoords
     print(json.encode(data))
     local newpointCreated = lib.points.new({
