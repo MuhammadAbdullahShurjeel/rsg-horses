@@ -2,18 +2,15 @@
 
 ![Screenshot_2024-11-03_023656](https://github.com/user-attachments/assets/ec12e90f-8271-4712-a370-679ac812b185)
 
+# Changes I have Made
+So many of my friends were asking to make where people can change horses instead of placing it so here's my version of it.
+
+
 
 # RexshackGaming
 - discord : https://discord.gg/eW3ADkf4Af
 - youtube : https://www.youtube.com/@rexshack/videos
 - github : https://github.com/Rexshack-RedM
-
-# Changes I have Made
-So many of my friends were asking to make where people can change horses instead of placing it so here's my version of it.
-
-# Things Left 
-Proper Config is left to be made for the Breed Menu and Horses are left to be added
-Will Complete This Today
 
 # Controls Set and Info
 - some keys need bonding level to work
