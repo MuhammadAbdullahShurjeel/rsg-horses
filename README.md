@@ -1,5 +1,7 @@
 # RSG-HORSES EDITED BY [Stx Scripts](https://discord.gg/fPjSxEHFMt)
 
+![Screenshot_2024-11-03_023656](https://github.com/user-attachments/assets/ec12e90f-8271-4712-a370-679ac812b185)
+
 
 # RexshackGaming
 - discord : https://discord.gg/eW3ADkf4Af
