@@ -1,8 +1,7 @@
 # rsg-horses
 
-# Muhammad Abdullah Shurjeel
-- discord : https://discord.gg/fPjSxEHFMt
-- github : https://github.com/MuhammadAbdullahShurjeel
+# RSG-HORSES EDITED BY [Stx Scripts](https://discord.gg/fPjSxEHFMt)
+
 
 # RexshackGaming
 - discord : https://discord.gg/eW3ADkf4Af
