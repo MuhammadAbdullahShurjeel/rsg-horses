@@ -14,8 +14,7 @@ function SpawnHorses(horsemodel, horsecoords, heading, deleteHorseForChange, old
     FreezeEntityPosition(spawnedHorse, true)
     SetBlockingOfNonTemporaryEvents(spawnedHorse, true)
     -- set relationship group between horse and player
-    SetPedRelationshipGroupHash(spawnedHorse, GetPedRelationshipGroupHash(spawnedHorse))
-    SetRelationshipBetweenGroups(1, GetPedRelationshipGroupHash(spawnedHorse), `PLAYER`)
+    SetPedCanBeTargetted(spawnedHorse, false)
 
     if Config.FadeIn then
         for i = 0, 255, 51 do
